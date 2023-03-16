@@ -1,2 +1,4 @@
 # data-analitic-Education
 Learning to program in python
+
+print("Hello world")
